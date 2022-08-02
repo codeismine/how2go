@@ -1,2 +1,3 @@
-# how2go
-EVERY HOW2 TOPICS in GO
+# EVERY HOW2 TOPICS in GO
+
+Enjoy with our topics in discussion tab.🤝
